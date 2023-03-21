@@ -77,3 +77,5 @@ class FakeDBSpells {
         }),
     ]
 }
+
+export const fakeDBSpells = new FakeDBSpells()
